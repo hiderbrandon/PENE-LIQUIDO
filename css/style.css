@@ -18,7 +18,9 @@
 
 
 .float{
+
     background-image: url("img/universe.jpg");
+
     position:fixed;
     background-size: cover;
 	width:60px;
